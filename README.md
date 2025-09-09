@@ -10,3 +10,6 @@ Repositório dedicado a resolução de exercícios relacionados aos algoritmos e
   Matrícula: 231037709
 
 Link do vídeo: https://www.youtube.com/watch?v=EHi96sgn1ag
+
+Questões difíceis: 3373 e 1970.
+Questões médias: 1038 e 1302.
