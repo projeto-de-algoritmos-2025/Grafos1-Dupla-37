@@ -6,7 +6,7 @@ Repositório dedicado a resolução de exercícios relacionados aos algoritmos e
 - **Cristiano Borges de Morais**  
   Matrícula: 222033952
 
-- **João Felix Moreira**  
+- **João Victor Félix Moreira**  
   Matrícula: 231037709
 
 Link do vídeo: https://www.youtube.com/watch?v=EHi96sgn1ag
